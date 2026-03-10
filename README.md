@@ -8,6 +8,9 @@ This enables founders, managers, and operations teams to quickly get answers lik
 "How many work orders closed last week?"
 "Generate a leadership update."
 
+## Live Demo URL
+https://bma2xfjtdprxiozg4bbffb.streamlit.app/
+
 
  ## Features
 
@@ -309,8 +312,7 @@ ML forecasting
 anomaly detection
 
 automated KPI alerts
-## SS
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8011487e-8afb-43c0-9923-5c0f348a35e5" />
+
 
 🧑‍💻 Author
 
